@@ -1,0 +1,62 @@
+/* add your CSS here */
+.card { width: 350px;
+        height:600px;
+        border: 1px solid darkcyan;
+        display: block;
+        flex-wrap: wrap;
+        box-shadow: 3px 10px lightgray;
+        background-color: lightgoldenrodyellow;
+        padding:25px;       
+}
+
+.box{ width: 300px;
+      height:275px;
+      border:1px solid burlywood;
+      padding:10px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      border-bottom:10px solid rgb(1, 24, 13);
+      box-shadow: 3px 10px rgb(88, 124, 104);}
+
+.mainfact {font-style: italic;
+           text-align: left;
+           color: rgb(43, 28, 1);
+           font-size: 15px;
+           margin: 10px;}
+
+span {font-weight: bold;
+      font-size: 12px;
+      color: rgb(4, 31, 18);}
+
+li { list-style-type: none;
+     font-size: 12px;
+     font-family:'Times New Roman', Times, serif;
+     text-align: left;
+     border: 10px;
+     margin: 10px;}
+     
+h3 { text-align: center;
+     font-weight: bold;
+     font-size: 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: chocolate;
+     padding: 1px;}
+
+.description {font-size: 16px;
+              color: rgb(43, 28, 1);
+              font-style: oblique;
+              font-family: Georgia, 'Times New Roman', Times, serif;
+              margin: 20px;}
+
+.imagestyle {
+    display:block;
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    img {
+        border-top: 10px solid rgb(1, 24, 13);
+    }
